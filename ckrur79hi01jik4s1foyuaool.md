@@ -65,7 +65,7 @@ const objectOrientedNumber = {
 };
 ```
 
-_(The `isaMultipleOf` method uses the same trick that I explained in the [functional solution](https://dev.to/kallmanation/unconditional-fizzbuzz-a-functional-approach-598m))_
+_(The `isaMultipleOf` method uses the same trick that I explained in the [functional solution](https://www.kallmanation.com/unconditional-fizzbuzz-a-functional-approach))_
 
 And this is all we need to implement a FizzBuzz:
 
