@@ -24,7 +24,7 @@ Also no looping constructs that could be abused into a conditional like `while` 
 
 # Hint number 1
 
-I tagged `functional-programming` on this post because functional programming can be used to solve this.
+I tagged `functional` on this post because functional programming can be used to solve this.
 
 # Hint number 2
 
