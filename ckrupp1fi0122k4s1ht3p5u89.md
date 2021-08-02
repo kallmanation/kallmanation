@@ -135,7 +135,7 @@ const functionalFizzBuzz = (n) => {
 };
 ```
 
-{% codepen https://codepen.io/kallmanation/pen/ExPKVOP default-tab=js,result %}
+%[https://codepen.io/kallmanation/pen/ExPKVOP]
 
 ---
 
