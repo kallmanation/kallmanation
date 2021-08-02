@@ -1,6 +1,6 @@
 ## Unconditional FizzBuzz: a Functional approach
 
-If you haven't read the [original challenge](Unconditional Challenge: FizzBuzz without `if`), go ahead and give it a look, think about how you would solve it, then come back. This post will give spoilers and (one of many) answers.
+If you haven't read the [original challenge](https://www.kallmanation.com/unconditional-challenge-fizzbuzz-without-if), go ahead and give it a look, think about how you would solve it, then come back. This post will give spoilers and (one of many) answers.
 
 To recap though, we want to make a classic [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) _without_ using `if` (or ternaries or anything like that).
 
