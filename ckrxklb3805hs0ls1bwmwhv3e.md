@@ -42,7 +42,7 @@ So here we have four rules:
 3. Anonymity in source of votes
 4. Easily understood and confirmed by an average voter
 
-Each are reasonable (and necessary). But if you've read my [previous article](https://dev.to/kallmanation/reasonable-requirements-reasonable-system-efp), you'll know this doesn't guarantee a reasonable system.
+Each are reasonable (and necessary). But if you've read my [previous article](https://kallmanation.com/sreasonable-requirements-reasonable-system), you'll know this doesn't guarantee a reasonable system.
 
 But let us start implementing anyway:
 
@@ -79,7 +79,3 @@ However, because the object can be confirmed to have been created by the authori
 Also, any particular voter can be confident their vote will be seen by those counting in the way they intended, without distortion (that's just how physical objects work; what you see is what you get).
 
 And so physical objects can solve this dilemma remarkably well. Perhaps one day a system based in computation will be able to solve it as well; but until then, use a physical object to vote.
-
----
-
-_Psst, if you like posts like this, consider supporting me by [buying me one pixel](https://www.buymeacoffee.com/kallmanation) closer to a new monitor._
