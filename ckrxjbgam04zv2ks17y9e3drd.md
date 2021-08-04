@@ -36,7 +36,7 @@ Given that, let's be nice and readjust their estimate on these corrections. We d
 
 # (un)Reasonable System
 
-As the good little code monkeys we are; we take these requirements and code them up into our quant little "dark mode" editors; queue the build and release magic and everyone's happy! Until... Until the day comes when **The Edge Case™** comes. Here's how it all went down:
+As the good little code monkeys we are; we take these requirements and code them up into our quaint little "dark mode" editors; queue the build and release magic and everyone's happy! Until... Until the day comes when **The Edge Case™** comes. Here's how it all went down:
 
 Pete has a project for Pumpkin Protractors.
 
@@ -75,8 +75,6 @@ Add, Modify, or Remove requirements to make the system "work" (whatever that mea
 ---
 
 _Psst... if you like this peculiar post, I propose you please prop me up with a donation in a pecuniary form on my [buy me a pixel](https://www.buymeacoffee.com/kallmanation) page. End of promotion_
-
----
 
 <details>
 <summary>
