@@ -18,11 +18,11 @@ The big one everyone talks about.
 
 Procedural being the simplest and first, reading top to bottom if this then that then regardless another thing and lastly a finishing statement. Not much more than assembly languages.
 
-[Object-oriented](https://dev.to/kallmanation/unconditional-fizzbuzz-an-object-oriented-approach-8o5) where Objects both hold and organize the data while controlling the program flow.
+[Object-oriented](https://kallmanation.com/unconditional-fizzbuzz-an-object-oriented-approach) where Objects both hold and organize the data while controlling the program flow.
 
-[Functional](https://dev.to/kallmanation/unconditional-fizzbuzz-a-functional-approach-598m) where functions control the program flow.
+[Functional](https://kallmanation.com/unconditional-fizzbuzz-a-functional-approach) where functions control the program flow.
 
-_(Even I talk about these; I have an [article detailing the differences](https://dev.to/kallmanation/oop-vs-fp-a-comparison-using-unconditional-fizzbuzz-29i0) in my opinion)_
+_(Even I talk about these; I have an [article detailing the differences](https://kallmanation.com/oop-vs-fp-a-comparison-using-unconditional-fizzbuzz) in my opinion)_
 
 Pick languages to learn each of these styles. For example, bash (or any shell script) is heavily procedural; Java is an object-oriented language; and Haskell is a functional language. Or languages like JavaScript that can be written in all three (if choosing one with multiple paradigms; make sure to spend time writing in only one style to learn about it before mixing styles).
 
