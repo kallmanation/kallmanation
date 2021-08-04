@@ -48,7 +48,3 @@ After all this, some of you are just looking for a shortlist of languages to lea
 2. [C#](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/) - Object-oriented (in a different way than JS); strongly typed; and strictly evaluated. A good dual to JS while still being widely used.
 3. [Haskell](http://learnyouahaskell.com/introduction#about-this-tutorial) - Functional; strongly typed (in a different way than C#); and lazily evaluated. The one that will break multiple "common" concepts learned from JS and C#. May be difficult to use in a professional setting, but the lessons learned will transform the way you view any other language you program within.
 
----
-
-_Psst, if you like posts like this, consider supporting me by [buying one pixel](https://www.buymeacoffee.com/kallmanation) for a new monitor._
-
