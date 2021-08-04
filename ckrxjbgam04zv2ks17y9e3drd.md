@@ -54,6 +54,14 @@ Pete now sees the problem present: the timer. Pete changes the time from Pumpkin
 
 And we... we... wait, **what are we supposed to do here?**
 
+| Event | Estimate |
+| --- | --- |
+| Pete sets the estimate to 3 | 3 hr |
+| Pete records a 2 hour timer | 1 hr |
+| Pete records another 2 hour timer | 0 hr |
+| Pete sets the estimate to 2 | 2 hr |
+| Pete removes his second 2 hour timer | ? hr |
+
 The estimate probably shouldn't be adjusted to 4 hours (naive rule #4); but maybe it should be 3 hours (rule #4 + correction for #3)? or should it stay at 2 hours (rule #1)? That is what Pete set it to most recently. Or just change it to 1 hour for some reason (rule #2?)?
 
 We have made an unreasonable system from only reasonable requirements. As written, we literally cannot reason about what should happen; the system is un-reasonable.
@@ -67,3 +75,15 @@ Add, Modify, or Remove requirements to make the system "work" (whatever that mea
 ---
 
 _Psst... if you like this peculiar post, I propose you please prop me up with a donation in a pecuniary form on my [buy me a pixel](https://www.buymeacoffee.com/kallmanation) page. End of promotion_
+
+---
+
+<details>
+<summary>
+So what did I do?</summary>
+I added another rule: Any changes to timers recorded before the last time the estimate was manually set have no effect.
+
+This rule prefers the judgement of humans over the machine and prefers to keep estimates low rather than "unexpectedly" grow. Other rules are possible though.
+
+So for this example the estimate will remain at 2 hours in the last row. The system has assumed Pete has the best knowledge of the future and has framed that knowledge in a statement irrespective of what corrections to the past need to be made (rather than a statement inclusive of potential corrections of history).
+</details>
