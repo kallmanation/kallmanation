@@ -2,6 +2,8 @@
 
 PWAs are coming to desktop! If you use [Vivaldi](https://vivaldi.com) (like me), then you too can join the PWA gang.
 
+_Update: PWAs are now [fully supported](https://vivaldi.com/blog/vivaldi-gets-more-private-delivers-an-all-new-capture-pwa-support/) and no longer "experimental"; you can skip this first step and go right to the installation._
+
 As of today, you'll need to enable the experimental feature allowing installation by visiting [vivaldi://experiments/](vivaldi://experiments/) and checking the box:
 
 ![Box labeled "Menu entries for installing Progressive Web Apps." should be checked](https://cdn.hashnode.com/res/hashnode/image/upload/v1630589211154/p2tEk1MWp.png)
