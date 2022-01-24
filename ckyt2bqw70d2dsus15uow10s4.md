@@ -1,6 +1,6 @@
 ## ICO: Incentive Couch Options
 
-_Cover photo by <a href="https://unsplash.com/@phillipgold?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Phillip Goldsberry</a> on <a href="/s/photos/sofa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
+<i>Cover photo by [Phillip Goldsberry](https://unsplash.com/@phillipgold?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/sofa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)</i>
 
 ---
 
