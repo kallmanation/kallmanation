@@ -1,6 +1,6 @@
 ## All you need is NAND, NAND, NAND; NAND is all you need!
 
-_All animations courtesy of my [Wireworld built in Svelte](https://dev.to/kallmanation/wireworld-svelte-edition-1lgj)_
+_All animations courtesy of my [Wireworld built in Svelte](https://www.kallmanation.com/wireworld-svelte-edition)_
 
 ---
 
