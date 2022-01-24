@@ -94,7 +94,7 @@ Vim provides a full language of editing semi-structured text of any kind. Like t
 
 In Vim, I'm never more than a few keystrokes from code I've imagined to a coded reality. Being that close means I can iterate through my ideas more quickly. Most of my ideas are bad to awful; throwing them away as quickly as possible is the best thing I can do with them.
 
-In a [recent article](https://dev.to/kallmanation/handwritten-code-2i95), I talked about how the _process_ of making something directly affects the results. Code written with Vim thinking has unique qualities from code written in other ways. Physically enacting the same mechanics that my computer uses to interact with its world gives me an empathy and understanding of it. That understanding makes code easier to read. That understanding makes code easier to write.
+In a [recent article](https://www.kallmanation.com/handwritten-code), I talked about how the _process_ of making something directly affects the results. Code written with Vim thinking has unique qualities from code written in other ways. Physically enacting the same mechanics that my computer uses to interact with its world gives me an empathy and understanding of it. That understanding makes code easier to read. That understanding makes code easier to write.
 
 # Getting into Vim Thinking
 
