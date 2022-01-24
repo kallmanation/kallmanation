@@ -37,8 +37,8 @@ The first big half of the "request-response lifecycle". Nothing, I repeat _nothi
 
 A request can have all sorts of information, but the highlights are:
 1. Verb - aka `GET`, `POST`, `PUT`, `PATCH`, `DELETE`, etc. each has a meaning; please use them appropriately
-2. Host - like [`www.buymeacoffee.com`](buymeacoff.ee/kallmanation)
-3. Path - the slashy bits, like [`/kallmanation`](buymeacoff.ee/kallmanation); but also contains the raw query parameters like [`?via=kallmanation`](buymeacoff.ee/?via=kallmanation)
+2. Host - like [`www.buymeacoffee.com`](https://buymeacoff.ee/kallmanation)
+3. Path - the slashy bits, like [`/kallmanation`](https://buymeacoff.ee/kallmanation); but also contains the raw query parameters like [`?via=kallmanation`](https://buymeacoff.ee/?via=kallmanation)
 4. Various Headers - all sorts of meta-data about the request, mostly look these up as needed; but one is worth mentioning here:
 5. Cookies - the thing we always have to "accept"; just a bunch of little pieces of text the requester keeps track of for the server
 6. Body - not on all requests; usually JSON, but can be any text for the server to use
