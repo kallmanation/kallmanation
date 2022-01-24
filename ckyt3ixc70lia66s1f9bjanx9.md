@@ -10,9 +10,7 @@ You can see those rules in action in the animation above. You can also play with
 
 # The Making Of
 
-Every three months, [Root](https://root.engineering) sets aside three days (called "hack days") for all its engineers to work on something of their choice. This time around I wanted to have some fun and also learn a little about [Svelte](https://svelte.dev) (Root mostly uses React & React Native). So I chose to make a browser-based Wireworld using Svelte!
-
-{% github https://github.com/kallmanation/wireworld %}
+Every three months, [Root](https://root.engineering) sets aside three days (called "hack days") for all its engineers to work on something of their choice. This time around I wanted to have some fun and also learn a little about [Svelte](https://svelte.dev) (Root mostly uses React & React Native). So I chose to make a browser-based Wireworld using Svelte! ([repo](https://github.com/kallmanation/wireworld))
 
 ## Decisions, Decisions, Decisions
 
@@ -32,7 +30,7 @@ The nature of a Wireworld's rendering requirements makes HTML + CSS a no-go. Can
 
 ### World Loop
 
-At the base of the simulation, something will need to decide what the next state should be based on the current state. This could be done in a procedural way with a switch / ifs or functional way or object-oriented. I've [written about the similarities and differences before](https://dev.to/kallmanation/oop-vs-fp-a-comparison-using-unconditional-fizzbuzz-29i0). I chose an object-oriented approach where each cell will be an object that responds to `nextState`; call `nextState` on all the cells and the world's next state has been found.
+At the base of the simulation, something will need to decide what the next state should be based on the current state. This could be done in a procedural way with a switch / ifs or functional way or object-oriented. I've [written about the similarities and differences before](https://www.kallmanation.com/oop-vs-fp-a-comparison-using-unconditional-fizzbuzz). I chose an object-oriented approach where each cell will be an object that responds to `nextState`; call `nextState` on all the cells and the world's next state has been found.
 
 ## What I Learned
 
