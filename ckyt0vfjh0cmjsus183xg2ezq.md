@@ -1,6 +1,6 @@
 ## Immutable ActiveRecord
 
-I just merged something at [my job](https://root.engineering) that I'm proud of. I was inspired by another [post here](https://dev.to/rodreegez/immutable-activerecord-models-11dp), but I'm especially happy with mine as I think I've covered a few holes Adam Rogers left in their example as well as added some needed niceties for my use-case. Ready? Let's get stuck into it:
+I just merged something at [my job](https://root.engineering) that I'm proud of. I was inspired by a [post on dev.to](https://dev.to/rodreegez/immutable-activerecord-models-11dp), but I'm especially happy with mine as I think I've covered a few holes Adam Rogers left in their example as well as added some needed niceties for my use-case. Ready? Let's get stuck into it:
 
 # Why?
 
@@ -16,7 +16,7 @@ Have you tried _proving_ that your history record is accurate when anyone or any
 
 # A Word on Adam's Approach
 
-{% link https://dev.to/rodreegez/immutable-activerecord-models-11dp %}
+_You can read their article [here](https://dev.to/rodreegez/immutable-activerecord-models-11dp)._
 
 If you are familiar with Rails you'll probably notice a few holes in that article's example (which is fine for exemplary purposes, but not for me in production): 
 1. It doesn't protect against `.destroy` 'ing records
