@@ -1,6 +1,6 @@
 ## De Morgan's Theorem
 
-In my [last post](https://dev.to/kallmanation/all-you-need-is-nand-nand-nand-nand-is-all-you-need-1cho), I hinted that De Morgan's Theorem makes "boolean code more readable" but that "we'll talk more about that later". Later is now! Let's talk about De Morgan's Theorem (or [De Morgan's Laws](https://en.wikipedia.org/wiki/De_Morgan's_laws)).
+In my [last post](https://www.kallmanation.com/all-you-need-is-nand-nand-nand-nand-is-all-you-need), I hinted that De Morgan's Theorem makes "boolean code more readable" but that "we'll talk more about that later". Later is now! Let's talk about De Morgan's Theorem (or [De Morgan's Laws](https://en.wikipedia.org/wiki/De_Morgan's_laws)).
 
 De Morgan's Theorem comes in two parts, each in the same pattern:
 
@@ -63,7 +63,7 @@ I propose that one of those statements is much more readily understood (both in 
 
 # What's This To Do With Wireworld?
 
-Look again at the NAND from the [last post](https://dev.to/kallmanation/all-you-need-is-nand-nand-nand-nand-is-all-you-need-1cho) in this series.
+Look again at the NAND from the [last post](https://www.kallmanation.com/all-you-need-is-nand-nand-nand-nand-is-all-you-need) in this series.
 
 ![Image of NAND in Wireworld](https://cdn.hashnode.com/res/hashnode/image/upload/v1643054771409/MPi2-rOehk.png)
 
