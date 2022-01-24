@@ -29,6 +29,8 @@ mcd() { mkdir "$@" && cd "$_" }
 
 And we could be done here, but I added one more thing. If `mkdir` prints errors, they will all be written in terms of `mkdir`. But that makes little sense to someone who just ran a command called `mcd`. I fixed that with `sed` and some redirection:
 
-{% gist https://gist.github.com/kallmanation/2027bb23242e59cb90141c803ffe2703 file=mcd.sh %}
+```sh
+mcd() { mkdir "$@" 2> >(sed s/mkdir/mcd/ 1>&2) && cd "$_"; }
+```
 
 For more examples of how this is used, check out [my gist](https://gist.github.com/kallmanation/2027bb23242e59cb90141c803ffe2703).
