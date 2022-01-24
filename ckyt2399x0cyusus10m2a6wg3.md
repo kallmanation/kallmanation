@@ -12,7 +12,7 @@ I'm not usually one to call things "problematic", but I do think the way we talk
 
 A simple transposition (_stupidly_ simple even 😏) changes our message from insulting to doubling down on itself.
 
-Keep our designs simple ([Don't confuse simple with easy](https://dev.to/kallmanation/dear-slack-simple-is-not-what-you-think-it-is-9em)). Not just simple: **stupidly** simple! So simple we can explain them to our non-tech friends and coworkers. Simple enough that our new hire can work on the system within the week (without breaking it on misunderstandings).
+Keep our designs simple ([Don't confuse simple with easy](https://www.kallmanation.com/dear-slack-simple-is-not-what-you-think-it-is). Not just simple: **stupidly** simple! So simple we can explain them to our non-tech friends and coworkers. Simple enough that our new hire can work on the system within the week (without breaking it on misunderstandings).
 
 **Let's re-acronym KISS from `Keep It Simple, Stupid` to `Keep It Stupid Simple`.**
 
