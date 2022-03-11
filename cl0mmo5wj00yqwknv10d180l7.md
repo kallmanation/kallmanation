@@ -43,7 +43,7 @@ I will accept some acronym use. But please, STAHP inventing new abbreviations an
 Do you want someone to STAHP? Here's a markdown STAHP linked to this article for you to use:
 
 ```
-[STAHP]()
+[STAHP](https://kallmanation.com/stahp)
 ```
 
  
