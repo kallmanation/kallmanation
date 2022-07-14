@@ -72,10 +72,6 @@ We have made an unreasonable system from only reasonable requirements. As writte
 
 Add, Modify, or Remove requirements to make the system "work" (whatever that means). Descriptions, diagrams and psuedo-code welcome.
 
----
-
-_Psst... if you like this peculiar post, I propose you please prop me up with a donation in a pecuniary form on my [buy me a pixel](https://www.buymeacoffee.com/kallmanation) page. End of promotion_
-
 <details>
 <summary>
 So what did I do?</summary>
